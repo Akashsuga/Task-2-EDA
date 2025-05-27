@@ -7,7 +7,7 @@ This repository contains Task 2 of the AI & ML Internship: Exploratory Data Anal
 ## Project Contents
 
 - `Titanic-Dataset.csv` — Original dataset  
-- `Task_2_EDA.ipynb` — Python script for all preprocessing + visualizations  
+- `Task-2-EDA.ipynb` — Python script for all preprocessing + visualizations  
 - `Visual Images` — Folder containing all visual plots  
 - `README.md` — This documentation
 - 'task2.pdf' — The Given task Assigned by Elevate Labs
