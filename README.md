@@ -1,4 +1,3 @@
-# Task-2-EDA
 # Task 2 – Exploratory Data Analysis on Titanic Dataset 
 
 This repository contains Task 2 of the AI & ML Internship: Exploratory Data Analysis (EDA) using the Titanic Dataset.
