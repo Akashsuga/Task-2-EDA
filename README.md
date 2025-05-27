@@ -10,7 +10,8 @@ This repository contains Task 2 of the AI & ML Internship: Exploratory Data Anal
 - `Titanic-Dataset.csv` — Original dataset  
 - `Task_2_EDA.ipynb` — Python script for all preprocessing + visualizations  
 - `Visual Images` — Folder containing all visual plots  
-- `README.md` — This documentation  
+- `README.md` — This documentation
+- 'task2.pdf' — The Given task Assigned by Elevate Labs
 
 ## Tools Used
 - Python, Pandas, NumPy, Seaborn, Matplotlib
@@ -29,7 +30,8 @@ This repository contains Task 2 of the AI & ML Internship: Exploratory Data Anal
 ###  1. Basic Distributions
 
 ####  Survival Count
-Most passengers did not survive (label = 0).
+Most passengers did not survive (label = 0).![Survival count](https://github.com/user-attachments/assets/7906336e-8574-4753-871f-9f36b7dc26d8)
+
 
 ####  Passenger Class Count
 Most passengers were in 3rd class.
